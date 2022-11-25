@@ -1,6 +1,6 @@
 # New Maintainer commitement
-I am not the owner of this project, since it's closed I chose to develop features and updates that I need by making this a fork. All issues raised by others will be adressed if it is an issue related to the program,if time is available of course. A
-# Überzug
+I am not the owner of this project, since it's closed I chose to develop features and updates that I need by making this a fork. All issues raised by others will be adressed if it is an issue related to the software itself, if time is available of course. A feauture will be implemented if I have the time and capacity to do it. pull requests will be reviewed ASAP. 
+ # Überzug
 
 
 Überzug is a command line util
