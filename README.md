@@ -1,4 +1,7 @@
+# New Maintainer commitement
+I am not the owner of this project, since it's closed I chose to develop features and updates that I need by making this a fork. All issues raised by others will be adressed if it is an issue related to the program,if time is available of course. A
 # Überzug
+
 
 Überzug is a command line util
 which allows to draw images on terminals by using child windows.
